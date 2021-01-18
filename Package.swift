@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "ESTabBarController",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v8),
     ],
